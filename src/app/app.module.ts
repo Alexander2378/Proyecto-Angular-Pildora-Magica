@@ -5,6 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { EmpleadosComponent } from './componentes/empleados/empleados.component';
 import { EmpleadoComponent } from './componentes/empleado/empleado.component';
+import { GitComponent } from './componentes/git/git.component';
 
 
 
@@ -13,6 +14,7 @@ import { EmpleadoComponent } from './componentes/empleado/empleado.component';
     AppComponent,
     EmpleadosComponent,
     EmpleadoComponent,
+    GitComponent,
 
   ],
   imports: [
